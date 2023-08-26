@@ -13,15 +13,9 @@
     </ItemGroup>
     <ItemGroup>
         <Content Include="aws-lambda-tools-defaults.json"/>
-    </ItemGroup>
-    <ItemGroup>
-        <PackageReference Include="Amazon.Lambda.Core" Version="2.1.0"/>
-        <PackageReference Include="Amazon.Lambda.Serialization.SystemTextJson" Version="2.3.1"/>
-        <PackageReference Include="Amazon.Lambda.APIGatewayEvents" Version="2.6.0"/>
-    </ItemGroup>
-    <ItemGroup>
-        <Content Include="aws-lambda-tools-defaults.json"/>
         <None Include="Readme.md"/>
+        <Content Include="paket.references" />
         <None Include="serverless.template"/>
     </ItemGroup>
+    <Import Project="..\..\..\.paket\Paket.Restore.targets" />
 </Project>

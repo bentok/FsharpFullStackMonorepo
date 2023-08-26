@@ -4,6 +4,10 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Api.Tests", "Api\test\Api.T
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Api", "Api\src\Api\Api.fsproj", "{4C613723-A970-4B16-B95B-589C375D2FC3}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Web.Tests", "Web\test\Web.Tests\Web.Tests.fsproj", "{59E11649-BEF9-4AB7-B81E-A1D5B1FBAF1D}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Web", "Web\src\Web.fsproj", "{CAA616F3-B41B-4139-A8B3-CE50A93FBE41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{4C613723-A970-4B16-B95B-589C375D2FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C613723-A970-4B16-B95B-589C375D2FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C613723-A970-4B16-B95B-589C375D2FC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59E11649-BEF9-4AB7-B81E-A1D5B1FBAF1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59E11649-BEF9-4AB7-B81E-A1D5B1FBAF1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59E11649-BEF9-4AB7-B81E-A1D5B1FBAF1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59E11649-BEF9-4AB7-B81E-A1D5B1FBAF1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAA616F3-B41B-4139-A8B3-CE50A93FBE41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA616F3-B41B-4139-A8B3-CE50A93FBE41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA616F3-B41B-4139-A8B3-CE50A93FBE41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA616F3-B41B-4139-A8B3-CE50A93FBE41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

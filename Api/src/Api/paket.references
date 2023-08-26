@@ -1,0 +1,9 @@
+Amazon.Lambda.Core
+Amazon.Lambda.Serialization.SystemTextJson
+Amazon.Lambda.APIGatewayEvents
+Dapper.FSharp
+Giraffe
+Microsoft.AspNetCore.TestHost
+Microsoft.FSharpLu
+Microsoft.FSharpLu.Json
+MySqlConnector

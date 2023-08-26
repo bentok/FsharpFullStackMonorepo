@@ -1,0 +1,9 @@
+Amazon.Lambda.Core
+Amazon.Lambda.Serialization.SystemTextJson
+Amazon.Lambda.APIGatewayEvents
+Amazon.Lambda.TestUtilities
+AutoBogus
+fsunit
+NSubstitute
+xunit
+xunit.runner.visualstudio
