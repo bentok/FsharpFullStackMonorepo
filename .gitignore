@@ -1,0 +1,17 @@
+# .net
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.idea
+.vscode
+.ionide
+.paket
+paket-files
+
+# web
+node_modules
+**/*.DotSettings.*
+.fable
+dist

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Api.Tests", "Api\test\Api.Tests\Api.Tests.fsproj", "{9EFC9E17-3C4D-4AC1-8F83-9C5C9F412C80}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Api", "Api\src\Api\Api.fsproj", "{4C613723-A970-4B16-B95B-589C375D2FC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EFC9E17-3C4D-4AC1-8F83-9C5C9F412C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EFC9E17-3C4D-4AC1-8F83-9C5C9F412C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EFC9E17-3C4D-4AC1-8F83-9C5C9F412C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EFC9E17-3C4D-4AC1-8F83-9C5C9F412C80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C613723-A970-4B16-B95B-589C375D2FC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C613723-A970-4B16-B95B-589C375D2FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C613723-A970-4B16-B95B-589C375D2FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C613723-A970-4B16-B95B-589C375D2FC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

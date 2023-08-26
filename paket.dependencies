@@ -1,0 +1,17 @@
+source https://api.nuget.org/v3/index.json
+
+nuget Amazon.Lambda.Core 2.1.0
+nuget Amazon.Lambda.Serialization.SystemTextJson 2.3.1
+nuget Amazon.Lambda.APIGatewayEvents 2.6.0
+nuget AutoBogus
+nuget Dapper.FSharp 4.4.0
+nuget fsunit
+nuget Giraffe
+nuget Microsoft.AspNetCore.TestHost
+nuget Microsoft.FSharpLu
+nuget Microsoft.FSharpLu.Json
+nuget Microsoft.NET.Test.Sdk
+nuget MySqlConnector 2.1.7
+nuget NSubstitute
+nuget xunit
+nuget xunit.runner.visualstudio
